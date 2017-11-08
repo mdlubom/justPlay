@@ -2,7 +2,7 @@
 Responsive Emailer
 ### What is this repository for? ###
 
-* This is an emailer for justPlay which is a project of JagMethod a digital marketing company that is leading the lead generation.
+* This is an emailer for justPlay which is a project of JagMethod a digital marketing company that is leading the lead generation. JustPlay is a competition platform and it is legit and all.
 ### How do I get set up? ###
 
 * Clone or download the repository to your local computer and one can view this emailer with whatever Email Client they have. 
